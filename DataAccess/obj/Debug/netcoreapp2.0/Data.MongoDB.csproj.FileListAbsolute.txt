@@ -1,0 +1,11 @@
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\bin\Debug\netcoreapp2.0\Data.MongoDB.deps.json
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\bin\Debug\netcoreapp2.0\Data.MongoDB.dll
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\bin\Debug\netcoreapp2.0\Data.MongoDB.pdb
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\obj\Debug\netcoreapp2.0\Data.MongoDB.csprojResolveAssemblyReference.cache
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\obj\Debug\netcoreapp2.0\Data.MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\obj\Debug\netcoreapp2.0\Data.MongoDB.AssemblyInfoInputs.cache
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\obj\Debug\netcoreapp2.0\Data.MongoDB.AssemblyInfo.cs
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\obj\Debug\netcoreapp2.0\Data.MongoDB.dll
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\obj\Debug\netcoreapp2.0\Data.MongoDB.pdb
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\bin\Debug\netcoreapp2.0\DB.Common.Util.dll
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\bin\Debug\netcoreapp2.0\DB.Common.Util.pdb

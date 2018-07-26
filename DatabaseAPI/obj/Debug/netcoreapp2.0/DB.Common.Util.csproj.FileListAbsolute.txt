@@ -1,0 +1,9 @@
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DatabaseAPI\bin\Debug\netcoreapp2.0\DB.Common.Util.deps.json
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DatabaseAPI\bin\Debug\netcoreapp2.0\DB.Common.Util.dll
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DatabaseAPI\bin\Debug\netcoreapp2.0\DB.Common.Util.pdb
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DatabaseAPI\obj\Debug\netcoreapp2.0\DB.Common.Util.csproj.CoreCompileInputs.cache
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DatabaseAPI\obj\Debug\netcoreapp2.0\DB.Common.Util.AssemblyInfoInputs.cache
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DatabaseAPI\obj\Debug\netcoreapp2.0\DB.Common.Util.AssemblyInfo.cs
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DatabaseAPI\obj\Debug\netcoreapp2.0\DB.Common.Util.dll
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DatabaseAPI\obj\Debug\netcoreapp2.0\DB.Common.Util.pdb
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DatabaseAPI\obj\Debug\netcoreapp2.0\DB.Common.Util.csprojResolveAssemblyReference.cache

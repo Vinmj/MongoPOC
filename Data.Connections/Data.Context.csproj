@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccess\Data.MongoDB.csproj" />
+    <ProjectReference Include="..\DatabaseAPI\DB.Common.Util.csproj" />
+  </ItemGroup>
+
+</Project>

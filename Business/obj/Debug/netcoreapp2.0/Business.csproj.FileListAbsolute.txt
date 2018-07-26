@@ -1,0 +1,15 @@
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\Business\obj\Debug\netcoreapp2.0\Business.csprojResolveAssemblyReference.cache
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\Business\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\Business\bin\Debug\netcoreapp2.0\Business.deps.json
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\Business\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\Business\bin\Debug\netcoreapp2.0\Business.pdb
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\Business\obj\Debug\netcoreapp2.0\Business.dll
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\Business\obj\Debug\netcoreapp2.0\Business.pdb
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\Business\bin\Debug\netcoreapp2.0\Data.Context.dll
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\Business\bin\Debug\netcoreapp2.0\Data.MongoDB.dll
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\Business\bin\Debug\netcoreapp2.0\DB.Common.Util.dll
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\Business\bin\Debug\netcoreapp2.0\Data.Context.pdb
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\Business\bin\Debug\netcoreapp2.0\DB.Common.Util.pdb
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\Business\bin\Debug\netcoreapp2.0\Data.MongoDB.pdb

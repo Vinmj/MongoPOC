@@ -1,0 +1,9 @@
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.deps.json
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.dll
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\bin\Debug\netcoreapp2.0\DataAccess.pdb
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.AssemblyInfo.cs
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.dll
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.pdb
+C:\Users\gijomon.k\Desktop\POC\ConsoleAppMongoDB\DataAccess\obj\Debug\netcoreapp2.0\DataAccess.csprojResolveAssemblyReference.cache
